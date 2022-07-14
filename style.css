@@ -1,0 +1,33 @@
+h1 {
+  background-color: rgb(47, 98, 194);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 160);  
+}
+
+.image-rounded-custom {
+  width: 300px;
+  height: auto;
+  border-radius: 5%;
+}
+
+ol li,
+ul li {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: rgb(221, 221, 39);
+  text-shadow: 0 0 4px black;
+}
